@@ -24,7 +24,7 @@ int main(){
             count++;
         }
     }
-    printf("%d %d %d\n", count, min, like);
+    //printf("%d %d %d\n", count, min, like);
     for (int i=0;i<count;i++){
         printf("%d\n", ans[i]);
     }
